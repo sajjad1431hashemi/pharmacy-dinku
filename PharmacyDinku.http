@@ -1,0 +1,6 @@
+@PhamacyMidware_HostAddress = http://localhost:5110
+
+GET {{PharmacyDinku_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
